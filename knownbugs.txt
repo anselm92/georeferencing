@@ -1,0 +1,3 @@
+- Imageview scale
+- Files with errors not displayed correctly
+- catch all Nullpointer exceptions
